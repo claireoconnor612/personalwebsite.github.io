@@ -9,7 +9,7 @@ redirect_from:
 
 My name is Claire and I am a third year PhD student in the College of Information at University of Maryland. I am currently advised by Dr. Stephanie Valencia Valencia and Dr. Jonathan Lazar. I am interested in co-designing communication tools with autistic users and exploring how speech-language pathologists (SLPs), caregivers, and autistic individuals can collaborate throughout the design process. Drawing on my experience as an SLP, I consider how end users interact with technology and the feasibility of integrating these designs into everyday practice.
 
-A data-driven personal website
+Updates
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
