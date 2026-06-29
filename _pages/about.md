@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome!"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My name is Claire and I am a third year PhD student in the College of Information at University of Maryland. 
+My name is Claire and I am a third year PhD student in the College of Information at University of Maryland. I am currently advised by Dr. Stephanie Valencia Valencia and Dr. Jonathan Lazar. I am interested in co-designing with autistic children and exploring family dynamics to inform the design of communication tools for autistic users. I use my experience as an Speech Language Pathologist (SLP) to inform my research 
 
 A data-driven personal website
 ======
